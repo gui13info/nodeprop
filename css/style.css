@@ -248,3 +248,8 @@ img{
     margin-top: 2%;
     color: rgba(255, 255, 255, 0.7);
 }
+
+@media screen and (min-width: 320px){
+    
+    
+}
