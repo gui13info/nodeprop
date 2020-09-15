@@ -248,8 +248,13 @@ img{
     margin-top: 2%;
     color: rgba(255, 255, 255, 0.7);
 }
+/* ==========MOBILE FIRST========== */
+/* SMALL DEVICES - SMARTPHONE */    
 
-@media screen and (min-width: 320px){
-    
-    
-}
+@media screen and (min-width: 480px) {
+    .logo {
+        width: 214px; 
+        background: url(../img/logo.png) center center/214px no-repeat;
+    }
+    .btn {font-size: 2em;}
+    }
