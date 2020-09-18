@@ -7,5 +7,3 @@ Aqui pudemos aprender sobre o conceito de mobile
 first, onde a aplicação é desenvolvida primeiro para dispositivos mobile.
 
 ### :iphone: Mobile
-
-
