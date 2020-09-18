@@ -251,7 +251,7 @@ img{
 /* ==========MOBILE FIRST========== */
 /* SMALL DEVICES - SMARTPHONE */    
 
-@media screen and (min-width: 501px) {
+@media screen and (min-width: 600px) {
     .logo {
         width: 214px; 
         background: url(../img/logo.png) center center/214px no-repeat;
@@ -290,7 +290,7 @@ img{
 }
 
 /* MEDIUM DEVICES - TABLETS & DESKTOPS*/
-@media screen and (min-width: 960px) {
+@media screen and (min-width: 992px) {
     .title {
         width: 70%; 
         float: left; 
@@ -327,7 +327,7 @@ img{
 }
 
 /* LARGE DEVICES - WIDE SCREENS*/
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1200px) {
     .btn-menu {
         display: none;
     }
