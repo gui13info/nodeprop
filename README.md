@@ -1,6 +1,6 @@
 # nodeprop
 
-## Projeto
+## :black_circle: Projeto
 
 nodeprop é um projeto que foca no aprendizado da responsividade.
 Aqui pudemos aprender sobre o conceito de mobile 
