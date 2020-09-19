@@ -1,4 +1,4 @@
-# <img src="https://github.com/gui13info/nodeprop/blob/master/img/logo.png" alt="nodeprop image" style="float:center" />
+# <img src="https://github.com/gui13info/nodeprop/blob/master/img/logo.png" alt="nodeprop image" style="img{float:center}" />
 
 ## :pushpin: Projeto
 
