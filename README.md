@@ -1,4 +1,4 @@
-# <img src="https://github.com/gui13info/nodeprop/blob/master/img/logo.png" alt="nodeprop image" align="center"" />
+# <img src="https://github.com/gui13info/nodeprop/blob/master/img/logo.png" alt="nodeprop image" align="center" />
 
 ## :pushpin: Projeto
 
@@ -8,19 +8,19 @@ first, onde a aplicação é desenvolvida primeiro para dispositivos mobile.
 
 <br/><br/>
 ### :iphone: Mobile 600px
-<img src="https://github.com/gui13info/nodeprop/blob/master/screen/phone.gif" alt="Mobile gif" align="center" />
+<img src="https://github.com/gui13info/nodeprop/blob/master/screen/phone.gif" alt="Mobile gif" align="center" width="600px" />
 
 <br/><br/><br/>
 ### :iphone: Tablet 768px
-<img src="https://github.com/gui13info/nodeprop/blob/master/screen/tablet.gif" alt="Tablet gif" align="center" />
+<img src="https://github.com/gui13info/nodeprop/blob/master/screen/tablet.gif" alt="Tablet gif" align="center" width="768px" />
 
 <br/><br/><br/>
 ### :computer: Desktop 992px
-<img src="https://github.com/gui13info/nodeprop/blob/master/screen/desktop.gif" alt="Destop gif" align="center" />
+<img src="https://github.com/gui13info/nodeprop/blob/master/screen/desktop.gif" alt="Destop gif" align="center" width="992px" />
 
 <br/><br/><br/>
 ### :computer: WIDE SCREENS 1200px
-<img https://github.com/gui13info/nodeprop/blob/master/screen/large.gif alt="Wide Screens gif" align="center" />
+<img https://github.com/gui13info/nodeprop/blob/master/screen/large.gif alt="Wide Screens gif" align="center" width="1200px" />
 
 <br/><br/><br/>
 ### Install
