@@ -1,5 +1,5 @@
-# <h1 align="center"> 
-  <img src="https://github.com/gui13info/nodeprop/blob/master/img/logo.png" alt="nodeprop image" />
+<h1 align="center"> 
+  <img src="https://github.com/gui13info/nodeprop/blob/master/img/logo.png" alt="nodeprop image" width="400px" />
 </h1>
 
 ## :pushpin: Projeto
