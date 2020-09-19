@@ -20,7 +20,7 @@ first, onde a aplicação é desenvolvida primeiro para dispositivos mobile.
 
 <br/><br/><br/>
 ### :computer: WIDE SCREENS 1200px
-<img https://github.com/gui13info/nodeprop/blob/master/screen/large.gif alt="Wide Screens gif" align="center" width="1200px" />
+<img https://github.com/gui13info/nodeprop/blob/master/screen/large.gif alt="Wide Screens gif" align="center" />
 
 <br/><br/><br/>
 ### Install
