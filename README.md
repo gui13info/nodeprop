@@ -8,7 +8,8 @@ first, onde a aplicação é desenvolvida primeiro para dispositivos mobile.
 
 <br/><br/>
 ### :iphone: Mobile 600px
-![Mobile_Image](https://github.com/gui13info/nodeprop/blob/master/screen/phone.gif)
+<img src="https://github.com/gui13info/nodeprop/blob/master/screen/phone.gif" />
+![Mobile_Image]()
 
 <br/><br/><br/>
 ### :iphone: Tablet 768px
