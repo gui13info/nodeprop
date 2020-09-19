@@ -25,6 +25,7 @@ first, onde a aplicação é desenvolvida primeiro para dispositivos mobile.
 <h1 align="center">
 <img src="https://github.com/gui13info/nodeprop/blob/master/screen/desktop.gif" alt="Destop gif" />
 </h1>
+
 <br/><br/><br/>
 ### :computer: WIDE SCREENS 1200px
 <h1 align="center">
